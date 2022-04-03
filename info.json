@@ -1,0 +1,16 @@
+{
+    "gmail": "z@gmail.com",
+    "gmailpass": "s",
+    "billing_name": "Test Test",
+    "email": "email@gmail.com",
+    "phone_number": "01111111111",
+    "billing_street": "42 test rd",
+    "billing_city": "city",
+    "billing_state": "AL",
+    "Postcode_zip": "111 111",
+    "country": "USA",
+    "card_type": "Visa",
+    "card_number": "1234123412341234",
+    "card_month": "11",
+    "card_year": "2023"
+}

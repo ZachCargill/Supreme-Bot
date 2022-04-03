@@ -1,0 +1,17 @@
+{
+    "port": "8080",
+    "oauth2": {
+        "redirect_uri": "http://localhost:8080/login/callback", 
+        "client_id": "732681914896613416",
+        "secret": "DISCORD_SECRET",
+        "scopes": ["identify", "guilds"]
+    },
+    "session": {
+        "secret": "youshallnotpass",
+        "cookie": {
+            "maxAge": 86400000
+        },
+        "resave": true,
+        "saveUninitialized": false
+    }
+}
